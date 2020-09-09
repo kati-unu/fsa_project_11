@@ -1,4 +1,4 @@
-console.log("Hello World!")
+console.log("I'm done!")
 
 $('body').css({
     backgroundColor: 'blue'
